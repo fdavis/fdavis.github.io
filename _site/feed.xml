@@ -7,80 +7,209 @@
     <atom:link href="http://fdavis.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Hello World -fdavis</title>
-        <description>&lt;p&gt;Test post displaying my cool takeoff.gif from my flight to Hermosillo, Sonora, Mexico! &lt;img class=&quot;emoji&quot; title=&quot;:sunglasses:&quot; alt=&quot;:sunglasses:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f60e.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;img class=&quot;emoji&quot; title=&quot;:+1:&quot; alt=&quot;:+1:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f44d.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;!&lt;/p&gt;
+        <title>Hello Hermosillo</title>
+        <description>&lt;p&gt;All my cool photos and gifs from my trip to Hermosillo, Sonora, Mexico! &lt;img class=&quot;emoji&quot; title=&quot;:sunglasses:&quot; alt=&quot;:sunglasses:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f60e.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;img class=&quot;emoji&quot; title=&quot;:+1:&quot; alt=&quot;:+1:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f44d.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;! WARNING GIFS ARE LARGE&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/bandita_de_pirata.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/beach_house_2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/beach_house_3.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/beach_house_4.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/beach_house_5.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/beach_house_6.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/beach_house_7.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/beach_house_8.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/beach_house.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/beach_house_little_wave.gif&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/beach_house_purple_sunset.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/beach_house_slow_wave.gif&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/beach_house_sun_has_set.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/beach_house_sunset.gif&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/beach_house_wave.gif&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/birria.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/burro_no_1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/burro_no_2_after.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/burro_no_2_before.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/burro_no_2_during.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/burrotron.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/cactus.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/cahuamanta_after.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/cahuamanta_before.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/cahuamanta_place.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/carne_asada.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/casa_nueva.gif&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/cerro_1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/cerro_2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/cerro_3.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/cerro_4.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/cerro_5.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/cerro_6.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/cerro_7.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/cerro_8.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/cerro_after.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/cervezayjazz.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/cheeto_tree.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/chiltepinos.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/cloud1.gif&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/cloud2.gif&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/cloud3.gif&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/cloud4.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/crystal_skulls_of_walmart.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/farewell.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/floopy_flamey.gif&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/fruit_from_menu_i_cant_read.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/futbol_field_1.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/futbol_field_2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/futbol_selfie.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/landing.gif&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/longos_ext.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/longos_food.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/menu_i_cant_read.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/modern_art.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/morales_statue.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/mountain_green_wow.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/nina_says_no.gif&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/no_solar_eclipse.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/not_tuna.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/papa_carne_asada.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/pistachos.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/random_drug_deal.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/random_drug_deal_part_2.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/rocking_rovolofo.gif&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/sad_keanu.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/satellite_office.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/tacofish.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/tacos_al_pastor.jpg&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/takeoff.gif&quot; alt=&quot;_config.yml&quot; /&gt;
-&lt;img src=&quot;/images/hmo_2014/working_at_the_carwash.jpg&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;I can’t quite remember what Don Ramon said about this symbol… I think I drink it. #chavo&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/bandita_de_pirata.jpg&quot; alt=&quot;bandita_de_pirata.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My sweet takeoff gif… Warning: it is long.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/takeoff.gif&quot; alt=&quot;takeoff.gif&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Warning: this landing gif is also long.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/landing.gif&quot; alt=&quot;landing.gif&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mmmmmm birria. &lt;img class=&quot;emoji&quot; title=&quot;:raised_hands:&quot; alt=&quot;:raised_hands:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f64c.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/birria.jpg&quot; alt=&quot;birria.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I went to this awesome place called the Burrotron. &lt;img class=&quot;emoji&quot; title=&quot;:+1:&quot; alt=&quot;:+1:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f44d.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;
+&lt;img src=&quot;/images/hmo_2014/burrotron.jpg&quot; alt=&quot;burrotron.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Where I ate bacon wrapped burros like this!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/burro_no_1.jpg&quot; alt=&quot;burro_no_1.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This one took me 45 minutes to eat &lt;img class=&quot;emoji&quot; title=&quot;:scream:&quot; alt=&quot;:scream:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f631.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; #noregrets&lt;/p&gt;
+
+&lt;p&gt;Before &lt;img class=&quot;emoji&quot; title=&quot;:smile:&quot; alt=&quot;:smile:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f604.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/burro_no_2_before.jpg&quot; alt=&quot;burro_no_2_before.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;During &lt;img class=&quot;emoji&quot; title=&quot;:sweat:&quot; alt=&quot;:sweat:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f613.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/burro_no_2_during.jpg&quot; alt=&quot;burro_no_2_during.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Finished!!! &lt;img class=&quot;emoji&quot; title=&quot;:mega:&quot; alt=&quot;:mega:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4e3.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;img class=&quot;emoji&quot; title=&quot;:raised_hands:&quot; alt=&quot;:raised_hands:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f64c.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/burro_no_2_after.jpg&quot; alt=&quot;burro_no_2_after.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My cactus friend &lt;img class=&quot;emoji&quot; title=&quot;:smiley:&quot; alt=&quot;:smiley:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f603.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;img class=&quot;emoji&quot; title=&quot;:cactus:&quot; alt=&quot;:cactus:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f335.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/cactus.jpg&quot; alt=&quot;cactus.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Cahuamanta! &lt;img class=&quot;emoji&quot; title=&quot;:smiley:&quot; alt=&quot;:smiley:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f603.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/cahuamanta_after.jpg&quot; alt=&quot;cahuamanta_after.jpg&quot; /&gt;
+&lt;img src=&quot;/images/hmo_2014/cahuamanta_before.jpg&quot; alt=&quot;cahuamanta_before.jpg&quot; /&gt;
+&lt;img src=&quot;/images/hmo_2014/cahuamanta_place.jpg&quot; alt=&quot;cahuamanta_place.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Carne Asada &lt;img class=&quot;emoji&quot; title=&quot;:yum:&quot; alt=&quot;:yum:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f60b.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/carne_asada.jpg&quot; alt=&quot;carne_asada.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Casa Nueva &lt;img class=&quot;emoji&quot; title=&quot;:beers:&quot; alt=&quot;:beers:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f37b.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;img class=&quot;emoji&quot; title=&quot;:beer:&quot; alt=&quot;:beer:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f37a.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/casa_nueva.gif&quot; alt=&quot;casa_nueva.gif&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pictures from the Cerro de la Campana &lt;img class=&quot;emoji&quot; title=&quot;:tada:&quot; alt=&quot;:tada:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f389.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;img class=&quot;emoji&quot; title=&quot;:tada:&quot; alt=&quot;:tada:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f389.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;img class=&quot;emoji&quot; title=&quot;:beer:&quot; alt=&quot;:beer:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f37a.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;img class=&quot;emoji&quot; title=&quot;:bell:&quot; alt=&quot;:bell:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f514.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/cerro_1.jpg&quot; alt=&quot;cerro_1.jpg&quot; /&gt;
+&lt;img src=&quot;/images/hmo_2014/cerro_2.jpg&quot; alt=&quot;cerro_2.jpg&quot; /&gt;
+&lt;img src=&quot;/images/hmo_2014/cerro_3.jpg&quot; alt=&quot;cerro_3.jpg&quot; /&gt;
+&lt;img src=&quot;/images/hmo_2014/cerro_4.jpg&quot; alt=&quot;cerro_4.jpg&quot; /&gt;
+&lt;img src=&quot;/images/hmo_2014/cerro_5.jpg&quot; alt=&quot;cerro_5.jpg&quot; /&gt;
+&lt;img src=&quot;/images/hmo_2014/cerro_6.jpg&quot; alt=&quot;cerro_6.jpg&quot; /&gt;
+&lt;img src=&quot;/images/hmo_2014/cerro_7.jpg&quot; alt=&quot;cerro_7.jpg&quot; /&gt;
+&lt;img src=&quot;/images/hmo_2014/cerro_8.jpg&quot; alt=&quot;cerro_8.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;One last picture of the Cerro from a nearby mall&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/cerro_after.jpg&quot; alt=&quot;cerro_after.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It would be fun they said &lt;img class=&quot;emoji&quot; title=&quot;:smirk_cat:&quot; alt=&quot;:smirk_cat:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f63c.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;What could be better they said &lt;img class=&quot;emoji&quot; title=&quot;:pouting_cat:&quot; alt=&quot;:pouting_cat:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f63e.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/cervezayjazz.jpg&quot; alt=&quot;cervezayjazz.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I found where they grow Cheetos!!! &lt;img class=&quot;emoji&quot; title=&quot;:sunglasses:&quot; alt=&quot;:sunglasses:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f60e.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/cheeto_tree.jpg&quot; alt=&quot;cheeto_tree.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Chicken Wings. ‘Nuf Said. (powered by chiltepines) &lt;img class=&quot;emoji&quot; title=&quot;:relieved:&quot; alt=&quot;:relieved:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f60c.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/chiltepinos.jpg&quot; alt=&quot;chiltepinos.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I was bored on the way there… so I took pictures of clouds! They are so fluffy! &lt;img class=&quot;emoji&quot; title=&quot;:stuck_out_tongue_closed_eyes:&quot; alt=&quot;:stuck_out_tongue_closed_eyes:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f61d.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/cloud1.gif&quot; alt=&quot;cloud1.gif&quot; /&gt;
+&lt;img src=&quot;/images/hmo_2014/cloud2.gif&quot; alt=&quot;cloud2.gif&quot; /&gt;
+&lt;img src=&quot;/images/hmo_2014/cloud3.gif&quot; alt=&quot;cloud3.gif&quot; /&gt;
+&lt;img src=&quot;/images/hmo_2014/cloud4.jpg&quot; alt=&quot;cloud4.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Indiana Jones only found one? … &lt;img class=&quot;emoji&quot; title=&quot;:unamused:&quot; alt=&quot;:unamused:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f612.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/crystal_skulls_of_walmart.jpg&quot; alt=&quot;crystal_skulls_of_walmart.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;emoji&quot; title=&quot;:fire:&quot; alt=&quot;:fire:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f525.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;img class=&quot;emoji&quot; title=&quot;:fire:&quot; alt=&quot;:fire:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f525.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;img class=&quot;emoji&quot; title=&quot;:fire:&quot; alt=&quot;:fire:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f525.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;img class=&quot;emoji&quot; title=&quot;:fire:&quot; alt=&quot;:fire:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f525.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/floopy_flamey.gif&quot; alt=&quot;floopy_flamey.gif&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Oh sign… I wish I could read you! &lt;img class=&quot;emoji&quot; title=&quot;:sweat:&quot; alt=&quot;:sweat:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f613.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/menu_i_cant_read.jpg&quot; alt=&quot;menu_i_cant_read.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Well… at least I can see what you’re talking about… &lt;img class=&quot;emoji&quot; title=&quot;:confused:&quot; alt=&quot;:confused:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f615.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/fruit_from_menu_i_cant_read.jpg&quot; alt=&quot;fruit_from_menu_i_cant_read.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I got to play Futbol!!! &lt;img class=&quot;emoji&quot; title=&quot;:soccer:&quot; alt=&quot;:soccer:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/26bd.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/futbol_selfie.jpg&quot; alt=&quot;futbol_selfie.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/futbol_field_1.jpg&quot; alt=&quot;futbol_field_1.jpg&quot; /&gt;
+&lt;img src=&quot;/images/hmo_2014/futbol_field_2.jpg&quot; alt=&quot;futbol_field_2.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Carne con chile… deshebrada… so good &lt;img class=&quot;emoji&quot; title=&quot;:bomb:&quot; alt=&quot;:bomb:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f4a3.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/longos_ext.jpg&quot; alt=&quot;longos_ext.jpg&quot; /&gt;
+&lt;img src=&quot;/images/hmo_2014/longos_food.jpg&quot; alt=&quot;longos_food.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I am a master of the cellular camera device &lt;img class=&quot;emoji&quot; title=&quot;:neckbeard:&quot; alt=&quot;:neckbeard:&quot; src=&quot;https://assets.github.com/images/icons/emoji/neckbeard.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; … so fancy&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/modern_art.jpg&quot; alt=&quot;modern_art.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bronzed Morales, near the politicing &lt;img class=&quot;emoji&quot; title=&quot;:metal:&quot; alt=&quot;:metal:&quot; src=&quot;https://assets.github.com/images/icons/emoji/metal.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/morales_statue.jpg&quot; alt=&quot;morales_statue.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;much green. so very. wow &lt;img class=&quot;emoji&quot; title=&quot;:+1:&quot; alt=&quot;:+1:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f44d.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; … that car &lt;em&gt;bugs&lt;/em&gt; me&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/mountain_green_wow.jpg&quot; alt=&quot;mountain_green_wow.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;emoji&quot; title=&quot;:smiley_cat:&quot; alt=&quot;:smiley_cat:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f63a.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;img class=&quot;emoji&quot; title=&quot;:smiley_cat:&quot; alt=&quot;:smiley_cat:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f63a.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;img class=&quot;emoji&quot; title=&quot;:smiley_cat:&quot; alt=&quot;:smiley_cat:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f63a.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;img class=&quot;emoji&quot; title=&quot;:smiley_cat:&quot; alt=&quot;:smiley_cat:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f63a.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;img class=&quot;emoji&quot; title=&quot;:smiley_cat:&quot; alt=&quot;:smiley_cat:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f63a.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/nina_says_no.gif&quot; alt=&quot;nina_says_no.gif&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Waiting for the solar eclipse… I failed. &lt;img class=&quot;emoji&quot; title=&quot;:skull:&quot; alt=&quot;:skull:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f480.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/no_solar_eclipse.jpg&quot; alt=&quot;no_solar_eclipse.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is not tuna… not sure what’s going on here.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/not_tuna.jpg&quot; alt=&quot;not_tuna.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Carne asada con papas y queso… quiero &lt;img class=&quot;emoji&quot; title=&quot;:eyes:&quot; alt=&quot;:eyes:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f440.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/papa_carne_asada.jpg&quot; alt=&quot;papa_carne_asada.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Horchata with pistachios! &lt;img class=&quot;emoji&quot; title=&quot;:tada:&quot; alt=&quot;:tada:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f389.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;img class=&quot;emoji&quot; title=&quot;:confetti_ball:&quot; alt=&quot;:confetti_ball:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f38a.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/pistachos.jpg&quot; alt=&quot;pistachos.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Someone took me to lunch… and the shadiest thing happened. Passing money on the streets. I tried to take pictures but failed. Oh well, I still have my kidneys and lunch was good &lt;img class=&quot;emoji&quot; title=&quot;:+1:&quot; alt=&quot;:+1:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f44d.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/random_drug_deal.jpg&quot; alt=&quot;random_drug_deal.jpg&quot; /&gt;
+&lt;img src=&quot;/images/hmo_2014/random_drug_deal_part_2.jpg&quot; alt=&quot;random_drug_deal_part_2.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;emoji&quot; title=&quot;:guitar:&quot; alt=&quot;:guitar:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f3b8.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;!!! Go Fito go!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/rocking_rovolofo.gif&quot; alt=&quot;rocking_rovolofo.gif&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I approve of this Sad Keanu.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/sad_keanu.jpg&quot; alt=&quot;sad_keanu.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Evolve Media LLC’s remote office in Hermosillo. (Not sure why we need two)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/satellite_office.jpg&quot; alt=&quot;satellite_office.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tacos!!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/tacofish.jpg&quot; alt=&quot;tacofish.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Moaarrrr Tacos!!!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/tacos_al_pastor.jpg&quot; alt=&quot;tacos_al_pastor.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The carwash mascot was pretty epic&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/working_at_the_carwash.jpg&quot; alt=&quot;working_at_the_carwash.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Near the end of my trip we went to a beautiful beach house in San Carlos, Sonora, Mexico. &lt;img class=&quot;emoji&quot; title=&quot;:grinning:&quot; alt=&quot;:grinning:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f600.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/beach_house_2.jpg&quot; alt=&quot;beach_house_2.jpg&quot; /&gt;
+&lt;img src=&quot;/images/hmo_2014/beach_house_3.jpg&quot; alt=&quot;beach_house_3.jpg&quot; /&gt;
+&lt;img src=&quot;/images/hmo_2014/beach_house_4.jpg&quot; alt=&quot;beach_house_4.jpg&quot; /&gt;
+&lt;img src=&quot;/images/hmo_2014/beach_house_5.jpg&quot; alt=&quot;beach_house_5.jpg&quot; /&gt;
+&lt;img src=&quot;/images/hmo_2014/beach_house_6.jpg&quot; alt=&quot;beach_house_6.jpg&quot; /&gt;
+&lt;img src=&quot;/images/hmo_2014/beach_house_7.jpg&quot; alt=&quot;beach_house_7.jpg&quot; /&gt;
+&lt;img src=&quot;/images/hmo_2014/beach_house_8.jpg&quot; alt=&quot;beach_house_8.jpg&quot; /&gt;
+&lt;img src=&quot;/images/hmo_2014/beach_house.jpg&quot; alt=&quot;beach_house.jpg&quot; /&gt;
+&lt;img src=&quot;/images/hmo_2014/beach_house_little_wave.gif&quot; alt=&quot;beach_house_little_wave.gif&quot; /&gt;
+&lt;img src=&quot;/images/hmo_2014/beach_house_purple_sunset.jpg&quot; alt=&quot;beach_house_purple_sunset.jpg&quot; /&gt;
+&lt;img src=&quot;/images/hmo_2014/beach_house_slow_wave.gif&quot; alt=&quot;beach_house_slow_wave.gif&quot; /&gt;
+&lt;img src=&quot;/images/hmo_2014/beach_house_sun_has_set.jpg&quot; alt=&quot;beach_house_sun_has_set.jpg&quot; /&gt;
+&lt;img src=&quot;/images/hmo_2014/beach_house_sunset.gif&quot; alt=&quot;beach_house_sunset.gif&quot; /&gt;
+&lt;img src=&quot;/images/hmo_2014/beach_house_wave.gif&quot; alt=&quot;beach_house_wave.gif&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Until next time HMO &lt;img class=&quot;emoji&quot; title=&quot;:wave:&quot; alt=&quot;:wave:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f44b.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hmo_2014/farewell.jpg&quot; alt=&quot;farewell.jpg&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 09 Nov 2014 00:00:00 -0800</pubDate>
         <link>http://fdavis.github.io/Hello-World/</link>
