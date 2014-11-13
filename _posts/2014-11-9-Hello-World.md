@@ -3,7 +3,7 @@ layout: post
 title: Hello Hermosillo
 ---
 
-All my cool photos and gifs from my trip to Hermosillo, Sonora, Mexico! :sunglasses: :+1:! WARNING GIFS ARE LARGE
+All my cool photos and gifs from my trip to Hermosillo, Sonora, Mexico! :sunglasses: :+1:! **WARNING GIFS ARE LARGE**
 
 I can't quite remember what Don Ramon said about this symbol... I think I drink it. #chavo
 
@@ -58,7 +58,7 @@ Carne Asada :yum:
 
 ![carne_asada.jpg]({{ site.baseurl }}/images/hmo_2014/carne_asada.jpg)
 
-Casa Nueva :beers::beer:
+Casa Nieve :beers::beer:
 
 ![casa_nueva.gif]({{ site.baseurl }}/images/hmo_2014/casa_nueva.gif)
 
