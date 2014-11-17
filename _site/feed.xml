@@ -7,6 +7,17 @@
     <atom:link href="http://fdavis.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>INFINITE CAT</title>
+        <description>&lt;p&gt;Behold the powers of GIMP! &lt;img class=&quot;emoji&quot; title=&quot;:neckbeard:&quot; alt=&quot;:neckbeard:&quot; src=&quot;https://assets.github.com/images/icons/emoji/neckbeard.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;img class=&quot;emoji&quot; title=&quot;:neckbeard:&quot; alt=&quot;:neckbeard:&quot; src=&quot;https://assets.github.com/images/icons/emoji/neckbeard.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;img class=&quot;emoji&quot; title=&quot;:laughing:&quot; alt=&quot;:laughing:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f606.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;img class=&quot;emoji&quot; title=&quot;:heart_eyes:&quot; alt=&quot;:heart_eyes:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f60d.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;img class=&quot;emoji&quot; title=&quot;:+1:&quot; alt=&quot;:+1:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f44d.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/nonsense/infinite_cat.gif&quot; alt=&quot;infinite_cat.gif&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 16 Nov 2014 00:00:00 -0800</pubDate>
+        <link>http://fdavis.github.io/infinitecat/</link>
+        <guid isPermaLink="true">http://fdavis.github.io/infinitecat/</guid>
+      </item>
+    
+      <item>
         <title>Using Docker to launch Flask app</title>
         <description>&lt;p&gt;For this post you’ll need Docker. I’m running on Arch, &lt;code&gt;sudo pacman -S docker&lt;/code&gt; depending on your OS you may have more legwork to do.&lt;/p&gt;
 
