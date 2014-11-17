@@ -7,6 +7,56 @@
     <atom:link href="http://fdavis.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Using Docker to launch Flask app</title>
+        <description>&lt;p&gt;For this post you’ll need Docker. I’m running on Arch, &lt;code&gt;sudo pacman -S docker&lt;/code&gt; depending on your OS you may have more legwork to do.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;install docker&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;sudo systemctl start docker&lt;/code&gt; or &lt;code&gt;sudo service docker start&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;usermod -a -G docker you&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Log out/in to get the group
+    &lt;ul&gt;
+      &lt;li&gt;you can verify with &lt;code&gt;groups | grep docker&lt;/code&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;run docker pull fdavis/utopic-flask-tut&lt;/li&gt;
+  &lt;li&gt;Go to your checkout of your flask app (run.py will need host=’0.0.0.0’ if main starts with via flask)&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;docker run -i -t -P -v $(pwd)/flaskapp:/opt/flaskapp -p 5000:5000 fdavis/utopic-flask-tut  /opt/flaskapp/run.py&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;You should be able to see your flask app in localhost:5000 &lt;img class=&quot;emoji&quot; title=&quot;:smiley:&quot; alt=&quot;:smiley:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f603.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;setting-up-a-docker-box&quot;&gt;Setting up a docker box&lt;/h1&gt;
+
+&lt;p&gt;I started to automate this build process, hopefully I’ll complete it soon. Until then if you need your own docker box setup, or mine does not work, we can follow the steps &lt;a href=&quot;https://github.com/fdavis/dockerbling/blob/master/dockerfiles/utopic-flask/Dockerfile&quot;&gt;from my Dockerfile&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;start with a docker utopic box (if you chose another version or distro you may have to change package names as appropriate)&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;docker run -i -t -p 5000:5000 ubuntu:utopic bash
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;You can always use &lt;code&gt;docker help&lt;/code&gt; for a list of commands and &lt;code&gt;docker help run&lt;/code&gt; for help on a specific command. I use &lt;code&gt;-i -t&lt;/code&gt; for an interactive tty. &lt;code&gt;-P&lt;/code&gt; publishes all known ports, which isn’t helpful in this case, but if you use my Dockerfile it would forward ports 5000 and 80 (Use &lt;code&gt;docker port&lt;/code&gt; too see the exact host port number.) This way we get a bash prompt on the docker container so we can install the requisite software. Run these:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;apt-get update
+apt-get install -y build-essential python python-dev python-pip python-mysqldb libmysqlclient-dev supervisor libmemcached-dev memcached python-memcache
+pip install flask flask-login flask-mail sqlalchemy flask-sqlalchemy flask-wtf flask-migrate tornado flask-cache simpleencode pdfminer flask-admin flask-security
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now if you send &lt;code&gt;CTRL+D&lt;/code&gt; you will leave the guest container’s bash prompt, and &lt;code&gt;docker ps&lt;/code&gt; will no longer show that box because it has stopped. Docker stops the box by design because its meant for running a single process like a tiny apache server. You should use &lt;code&gt;docker ps -a&lt;/code&gt; so you can get that last box’s container id which you’ll need for the next command. Run &lt;code&gt;docker commit $YOUR_HASH utopic-flask-tut&lt;/code&gt; to create an image from the container you’ve been working with. Now you can launch a new container from the previous container’s state using:&lt;/p&gt;
+
+&lt;h2 id=&quot;the-docker-run-command-for-optflaskapprunpy&quot;&gt;The docker run command for /opt/flaskapp/run.py&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt;docker run -i -t -P -v $(pwd)/flaskapp:/opt/flaskapp -p 5000:5000 utopic-flask-tut /opt/flaskapp/run.py
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The volume share requires the full path so I just prefix with &lt;code&gt;$(pwd)&lt;/code&gt; to make it easier. So &lt;code&gt;-v $(pwd)/flaskapp:/opt/flaskapp&lt;/code&gt; is to share my /home/fdavis/git/flaskapp/ to the docker container’s /opt/flaskapp, &lt;/p&gt;
+</description>
+        <pubDate>Sun, 16 Nov 2014 00:00:00 -0800</pubDate>
+        <link>http://fdavis.github.io/DockerFlask/</link>
+        <guid isPermaLink="true">http://fdavis.github.io/DockerFlask/</guid>
+      </item>
+    
+      <item>
         <title>Continued Hermosillo, Sonora, Mexico</title>
         <description>&lt;p&gt;Su was nice and asked to let me in the back where they make coyotas at a Doña Coyo in &lt;em&gt;Villa de Seris&lt;/em&gt;&lt;/p&gt;
 
