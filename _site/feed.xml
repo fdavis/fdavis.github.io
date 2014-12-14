@@ -7,6 +7,32 @@
     <atom:link href="http://fdavis.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Awesome XScreensaver Setup</title>
+        <description>&lt;p&gt;Here it is! &lt;img class=&quot;emoji&quot; title=&quot;:smile:&quot; alt=&quot;:smile:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f604.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/starwars-fortune-xscreensaver.png&quot; alt=&quot;starwars-fortune-xscreensaver.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;That’s right. StarWars on XScreenSaver using fortune for text. &lt;img class=&quot;emoji&quot; title=&quot;:neckbeard:&quot; alt=&quot;:neckbeard:&quot; src=&quot;https://assets.github.com/images/icons/emoji/neckbeard.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you’d like to set this up I have some basic how to steps here:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;to have xscreensaver and fortune installed&lt;/li&gt;
+  &lt;li&gt;open up screensaver preferences&lt;/li&gt;
+  &lt;li&gt;open the Advanced tab&lt;/li&gt;
+  &lt;li&gt;under the ‘text manipulation’ pane select program and type in fortune&lt;/li&gt;
+  &lt;li&gt;go back to on the display modes tab&lt;/li&gt;
+  &lt;li&gt;select StarWars&lt;/li&gt;
+  &lt;li&gt;now if you watch the preview you should see fortune text scroll by &lt;img class=&quot;emoji&quot; title=&quot;:smiley:&quot; alt=&quot;:smiley:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f603.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;make sure the checkbox is marked so it will come up when xscreensaver activiates normally&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sun, 14 Dec 2014 00:00:00 -0800</pubDate>
+        <link>http://fdavis.github.io/StarWarsFortune/</link>
+        <guid isPermaLink="true">http://fdavis.github.io/StarWarsFortune/</guid>
+      </item>
+    
+      <item>
         <title>INFINITE CAT</title>
         <description>&lt;p&gt;Behold the powers of GIMP! &lt;img class=&quot;emoji&quot; title=&quot;:neckbeard:&quot; alt=&quot;:neckbeard:&quot; src=&quot;https://assets.github.com/images/icons/emoji/neckbeard.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;img class=&quot;emoji&quot; title=&quot;:neckbeard:&quot; alt=&quot;:neckbeard:&quot; src=&quot;https://assets.github.com/images/icons/emoji/neckbeard.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;img class=&quot;emoji&quot; title=&quot;:laughing:&quot; alt=&quot;:laughing:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f606.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;img class=&quot;emoji&quot; title=&quot;:heart_eyes:&quot; alt=&quot;:heart_eyes:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f60d.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;img class=&quot;emoji&quot; title=&quot;:+1:&quot; alt=&quot;:+1:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f44d.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;&lt;/p&gt;
 
